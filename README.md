@@ -1,35 +1,27 @@
-LAB-1-ATM
-ATM and Banking SYSTEM
-AIM:
-To study the problem statement, SRS document and draw all the UML diagrams of ATM System.
-
-PROBLEM STATEMENT:
-To create ATM System software that will meet the needs of the applicant and help them to withdraw money,deposit.
-
-UML DIAGRAMS:
-USECASE DIAGRAM:
-![image](https://github.com/user-attachments/assets/51f3fc8d-87a5-46d2-8339-3690844da377)
-
-
-CLASS DIAGRAM :
-![image](https://github.com/user-attachments/assets/97d63e7f-68d5-46d5-95ca-365cdfef7b84)
-
-
-SEQUENCE DIAGRAM :
-![image](https://github.com/user-attachments/assets/ea0a6984-90f4-4cfa-b26b-bc93570179e9)
-
-
-PACKAGE DIAGRAM :
-![image](https://github.com/user-attachments/assets/87567496-5ac9-4127-9738-06c33c04b47e)
+# LAB-1-ATM
+## ATM and Banking SYSTEM
+### AIM: 
+To study the problem statement, SRS document and draw all the UML diagrams of ATM
+System.
+### PROBLEM STATEMENT:
+To create ATM System software that will meet the needs of the applicant and help them
+to withdraw money,deposit.
+### UML DIAGRAMS:
+## USECASE DIAGRAM:
+![UseCaseDiagram1](https://github.com/user-attachments/assets/9218375f-d497-4ac1-a705-cdba2ba62f91)
+## CLASS DIAGRAM :
+![Class Diagram](https://github.com/user-attachments/assets/ad970506-0195-4f04-a9b9-b9972fa2c03c)
+## SEQUENCE DIAGRAM :
+![SequenceDiagram1](https://github.com/user-attachments/assets/79bc7b89-a416-435c-aecd-5a86b424de80)
+## PACKAGE DIAGRAM :
+![PackageDiagram1](https://github.com/user-attachments/assets/b481acd2-9899-4314-b83b-f341cef2e3ea)
+## COMMUNICATION DIAGRAM :
+![CommunicationDiagram1](https://github.com/user-attachments/assets/b2bebd79-f38c-4162-a624-8eff8e390fdb)
+## ACTIVITY DIAGRAM :
+![ActivityDiagram1](https://github.com/user-attachments/assets/10333bf1-fce7-4666-a6dd-0e0a6670b95f)
 
 
-COMMUNICATION DIAGRAM :
-![image](https://github.com/user-attachments/assets/6ae5cb9d-e64b-43a8-80c9-f19d52819017)
 
 
-ACTIVITY DIAGRAM :
-![image](https://github.com/user-attachments/assets/e49b0b2a-8737-4634-9d96-43bcfa4536e3)
-
-
-RESULT:
+### RESULT: 
 Thus the Atm and banking System project was executed and the output was verified.
